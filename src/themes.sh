@@ -17,14 +17,14 @@ case $SELECTED_THEME in
     ["white"]="#a9b1d6"
     ["yellow"]="#e0af68"
 
-    ["bblack"]="#414868"
-    ["bblue"]="#7aa2f7"
-    ["bcyan"]="#7dcfff"
-    ["bgreen"]="#41a6b5"
-    ["bmagenta"]="#bb9af7"
-    ["bred"]="#f7768e"
-    ["bwhite"]="#787c99"
-    ["byellow"]="#e0af68"
+    ["bblack"]="#FF4500"   # Orange Red (bright)
+    ["bblue"]="#00BFFF"    # Deep Sky Blue
+    ["bcyan"]="#00FFFF"    # Cyan / Aqua
+    ["bgreen"]="#32CD32"   # Lime Green
+    ["bmagenta"]="#FF00FF" # Magenta / Fuchsia
+    ["bred"]="#FF6347"     # Tomato (bright red)
+    ["bwhite"]="#F0E68C"   # Khaki (bright pale yellow)
+    ["byellow"]="#FFD700"  # Gold (bright yellow)
   )
   ;;
 
@@ -41,14 +41,14 @@ case $SELECTED_THEME in
     ["white"]="#343b58"
     ["yellow"]="#8f5e15"
 
-    ["bblack"]="#9699a3"
-    ["bblue"]="#34548a"
-    ["bcyan"]="#0f4b6e"
-    ["bgreen"]="#33635c"
-    ["bmagenta"]="#5a4a78"
-    ["bred"]="#8c4351"
-    ["bwhite"]="#343b58"
-    ["byellow"]="#8f5815"
+    ["bblack"]="#FF8C00"   # Dark Orange (bright orange)
+    ["bblue"]="#1E90FF"    # Dodger Blue
+    ["bcyan"]="#40E0D0"    # Turquoise
+    ["bgreen"]="#3CB371"   # Medium Sea Green
+    ["bmagenta"]="#DA70D6" # Orchid (bright magenta)
+    ["bred"]="#FF4500"     # Orange Red
+    ["bwhite"]="#EEE8AA"   # Pale Goldenrod
+    ["byellow"]="#FFFF00"  # Yellow (bright)
   )
   ;;
 
@@ -66,14 +66,14 @@ case $SELECTED_THEME in
     ["white"]="#c0caf5"
     ["yellow"]="#e0af68"
 
-    ["bblack"]="#2A2F41"
-    ["bblue"]="#7aa2f7"
-    ["bcyan"]="#7dcfff"
-    ["bgreen"]="#41a6b5"
-    ["bmagenta"]="#bb9af7"
-    ["bred"]="#ff9e64"
-    ["bwhite"]="#787c99"
-    ["byellow"]="#e0af68"
+    ["bblack"]="#FF69B4"   # Hot Pink
+    ["bblue"]="#00CED1"    # Dark Turquoise
+    ["bcyan"]="#7FFFD4"    # Aquamarine
+    ["bgreen"]="#ADFF2F"   # Green Yellow
+    ["bmagenta"]="#DA3FFF" # Vivid Magenta
+    ["bred"]="#FF4500"     # Orange Red
+    ["bwhite"]="#FFFFE0"   # Light Yellow
+    ["byellow"]="#FFA500"  # Orange
   )
   ;;
 esac
